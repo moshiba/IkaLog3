@@ -26,7 +26,7 @@ from ikalog import inputs
 from ikalog.plugin import IkaLogPlugin
 import traceback
 
-from ikalog.utils import IkaUItils
+from ikalog.utils import IkaUtils
 
 t = gettext.translation('IkaUI', 'locale', fallback=True)
 _ = t.gettext
